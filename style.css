@@ -1,0 +1,57 @@
+.btn{
+    background-color: #ffe6bc;
+    color: #8e806a;
+    margin: 15px;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    font-weight: bold;   
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+ .tabel{
+    background-color: #c3b091;
+    margin: auto;
+    border-style: dotted;
+    border-color: #ffe6bc;
+    padding: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    font-size: smaller;
+ }
+
+ .header{
+     color: #ffe6bc;
+     padding-bottom: 25px;
+     font-size: 35px;
+ }
+
+ .hsl{
+     background-color: #ffe6bc;
+     color: black;
+     border-style: unset;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+     font-weight: bold;
+     font-size: 16px;
+     margin: 20px;
+     width: 217px;
+ }
+
+ .input{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    width: 214px;
+    margin: 20px;
+ }
+
+ td{
+     color: #ffe6bc;
+     font-size: 16px;
+ }
+
+ select{
+    background-color: #ffe6bc;
+    color: #8e806a;
+    position: relative;
+    margin: 20px;
+    font-size: 16px;
+    height: 40px;
+ }
